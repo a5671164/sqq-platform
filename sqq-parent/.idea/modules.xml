@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../sqq-common/sqq-common.iml" filepath="$PROJECT_DIR$/../sqq-common/sqq-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sqq-dubbo-service/sqq-dubbo-service.iml" filepath="$PROJECT_DIR$/../sqq-dubbo-service/sqq-dubbo-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sqq-model/sqq-model.iml" filepath="$PROJECT_DIR$/../sqq-model/sqq-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sqq-parent.iml" filepath="$PROJECT_DIR$/sqq-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sqq-service/sqq-service.iml" filepath="$PROJECT_DIR$/../sqq-service/sqq-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sqq-service-api/sqq-service-api.iml" filepath="$PROJECT_DIR$/../sqq-service-api/sqq-service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sqq-web/sqq-web.iml" filepath="$PROJECT_DIR$/../sqq-web/sqq-web.iml" />
+    </modules>
+  </component>
+</project>

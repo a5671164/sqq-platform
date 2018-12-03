@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="sqq-dubbo-service:war">
+    <output-path>$PROJECT_DIR$/../sqq-dubbo-service/target</output-path>
+    <root id="archive" name="sqq-dubbo-service.war">
+      <element id="artifact" artifact-name="sqq-dubbo-service:war exploded" />
+    </root>
+  </artifact>
+</component>

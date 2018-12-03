@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="sqq-dubbo-service">
+        <wb-resource deploy-path="/" source-path="/target/m2e-wtp/web-resources"/>
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/resources"/>
+        <dependent-module archiveName="sqq-service-api-1.0.0.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/sqq-service-api/sqq-service-api">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="sqq-model-1.0.0.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/sqq-model/sqq-model">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="sqq-common-1.0.0.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/sqq-common/sqq-common">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="sqq-service-1.0.0.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/sqq-service/sqq-service">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <property name="context-root" value="sqq-dubbo-service"/>
+        <property name="java-output-path" value="/sqq-dubbo-service/target/classes"/>
+    </wb-module>
+</project-modules>
